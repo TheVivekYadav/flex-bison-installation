@@ -2,7 +2,6 @@ Here's a detailed Markdown (`.md`) document explaining how to set up **Flex** an
 
 ---
 
-```markdown
 # Flex and Bison Setup & Demo Program
 
 This guide explains how to set up **Flex** and **Bison** on your system and create a basic calculator program using these tools.
@@ -18,7 +17,7 @@ This guide explains how to set up **Flex** and **Bison** on your system and crea
 ```bash
 sudo apt update
 sudo apt install flex bison build-essential
-```
+
 
 ### On Arch-based Systems
 ```bash

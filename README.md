@@ -1,7 +1,3 @@
-Here's a detailed Markdown (`.md`) document explaining how to set up **Flex** and **Bison**, along with a simple demo program that uses both to build a basic calculator.
-
----
-
 # Flex and Bison Setup & Demo Program
 
 This guide explains how to set up **Flex** and **Bison** on your system and create a basic calculator program using these tools.
@@ -138,10 +134,3 @@ calc         # Final compiled binary
 - [Bison Manual](https://www.gnu.org/software/bison/manual/)
 
 ---
-
-Happy parsing! 🧠⚙️
-```
-
----
-
-Would you like me to generate the files (`calc.l`, `calc.y`) for download or bundle it in a `.zip`?
